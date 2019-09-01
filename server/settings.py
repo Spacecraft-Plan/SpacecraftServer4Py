@@ -49,7 +49,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'SpacecraftServer4Py.urls'
+ROOT_URLCONF = 'server.urls'
 
 TEMPLATES = [
     {
