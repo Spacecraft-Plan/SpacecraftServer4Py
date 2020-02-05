@@ -1,4 +1,4 @@
-# SpacecraftServer4Py
+# SpacecraftServer4Django
 
 ## python env:
 一个项目里面可以有多个python env，这样互不污染。相当于客户端的业务插件。
